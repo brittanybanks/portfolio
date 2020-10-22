@@ -1,0 +1,1 @@
+This is my one page portfolio that I created from scratch. I followed instruction from a well known YouTuber then practiced code refractoring in order to change the content to fit my design. 
